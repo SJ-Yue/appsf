@@ -1,0 +1,7 @@
+parameters:
+#    sam_hello.example.class: Sam\HelloBundle\Example
+
+services:
+#    sam_hello.example:
+#        class: %sam_hello.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

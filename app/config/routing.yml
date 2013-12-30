@@ -1,0 +1,4 @@
+sam_hello:
+    resource: "@SamHelloBundle/Resources/config/routing.yml"
+    prefix:   /
+
